@@ -6,7 +6,7 @@ This repository is a collection of personal solutions to Project Euler problems 
 Each solution will be named after it's equivalent problem number.
 
 Solutions will also include comments that state the problem, the resulting output, and possibly alternate solutions.
-# JavaScript
-To run these examples, install [nodejs](https://nodejs.org/).
+# Java
+To run these examples, install [Java](https://adoptium.net/download/).
 
-Then clone this repository and run each example with ``node ./$NUMBER.js`` where ``$NUMBER`` is the number of the problem you wish to run.
+Then clone this repository and run each example with ``javac ./$NUMBER.java`` and ``java $NUMBER`` where ``$NUMBER`` is the number of the problem you wish to run.
