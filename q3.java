@@ -1,5 +1,5 @@
 // What is the largest prime factor of the number 600851475143?
-class three {
+class q3 {
 	public static void main(String[] args) {
 			System.out.println(largestPrimeFactor(600851475143L)); // 6857
 	}

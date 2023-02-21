@@ -9,4 +9,4 @@ Solutions will also include comments that state the problem, the resulting outpu
 # Java
 To run these examples, install [Java](https://adoptium.net/download/).
 
-Then clone this repository and run each example with ``javac ./$NUMBER.java`` and ``java $NUMBER`` where ``$NUMBER`` is the number of the problem you wish to run.
+Then clone this repository and run each example with ``javac ./$NUMBER.java`` and ``java q$NUMBER`` where ``$NUMBER`` is the number of the problem you wish to run.
